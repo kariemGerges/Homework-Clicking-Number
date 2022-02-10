@@ -1,0 +1,33 @@
+.box1{
+    height:100px;
+    width:200px;
+    border-radius:10px;
+    margin-bottom:10px;
+    box-sizing:border-box;
+    padding:8px;
+    position:relative;
+    background-color: red;
+    color: white;
+}
+.box2{
+    height:100px;
+    width:200px;
+    border-radius:10px;
+    margin-bottom:10px;
+    box-sizing:border-box;
+    padding:8px;
+    position:relative;
+    background-color: black;
+    color: white;
+}
+.box3{
+    height:100px;
+    width:200px;
+    border-radius:10px;
+    margin-bottom:10px;
+    box-sizing:border-box;
+    padding:8px;
+    position:relative;
+    background-color: blue;
+    color: white;
+}
